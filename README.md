@@ -54,8 +54,8 @@ The internship focused on strengthening frontend development skills through prac
 ## Contact
 
 **Abhishek Kumar**  
-GitHub: [github.com/abhishekkumar004](https://github.com/abhishekkumar004)  
-Email: abhishekkumar004@email.com
+GitHub: [github.com/abhishekkumar0044](https://github.com/abhishekkumar0044)  
+Email: abhishekkumar0044rjp@email.com
 
 ---
 
